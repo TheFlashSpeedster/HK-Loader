@@ -14,12 +14,12 @@
       "description": "Deploy Repository URL, add Private Token if Repo is Private"
     },
     "REPO_BRANCH": {
-      "value": "master"
       "description": "Repo Branch, you want to deploy with your REPO_URL."
+      "value": "master"
     },
     "START_CMD": {
-      "value": "bash start.sh"
       "description": "Trigger Command for your Bot to Run."
+      "value": "bash start.sh"
     }
   }
 }
