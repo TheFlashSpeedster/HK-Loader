@@ -1,11 +1,7 @@
 {
   "name": "HK-Loader",
-  "description": "A Universal Plugin to Deploy a Non-Supported Heroku Repo without any hassle. ",
-  "keywords": [
-    "plugin",
-    "loader",
-    "heroku"
-  ],
+  "description": "A Universal Plugin to Deploy a Non-Supported Heroku Repo without any hassle.",
+  "keywords": ["plugin", "loader", "heroku"],
   "website": "https://t.me/FXTorrentz",
   "repository": "https://github.com/SilentDemonSD/HK-Loader",
   "success_url": "https://t.me/FXTorrentz",
